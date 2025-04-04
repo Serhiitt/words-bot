@@ -1,0 +1,10 @@
+import asyncio
+import os
+from aiogram import Bot, Dispatcher, types
+from aiogram.types import Message
+from aiogram.filters import Command
+from dotenv import load_dotenv
+import database
+import asyncpg
+import os
+from dotenv import load_dotenv
