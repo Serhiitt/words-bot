@@ -1,4 +1,4 @@
 aiogram
 dotenv
 asyncpg
-os
+
